@@ -1,3 +1,3 @@
 # meteor-todo-app
 
-Meteor tutorial in class
+Meteor tutorial with Class.
